@@ -1,2 +1,2 @@
 # clo-chatgpt
-简易版ChatGPT
+克隆ChatGPT
